@@ -17,7 +17,7 @@ function LandingPage() {
         Portfolio is developing.
         </p>
         <button className="text-xl text-white underline"
-        onClick={() => gotoDetail()}>Next</button>
+        onClick={() => gotoDetail()}>Details</button>
     </div>
     );
 }
